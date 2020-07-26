@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "059f63138faf6b8e079182c0d0db86c2",
+    "revision": "5a6750a968fde751ba68ff573b2db9d7",
     "url": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/index.html"
   },
   {
-    "revision": "51a3a1c976e7c8572b20",
+    "revision": "c7c5ca6b419252a9c73d",
     "url": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/css/2.e04ff340.chunk.css"
   },
   {
-    "revision": "aab6a1f94b33de4fe92f",
+    "revision": "22186e247bac1b846bfa",
     "url": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/css/main.445affc7.chunk.css"
   },
   {
-    "revision": "51a3a1c976e7c8572b20",
-    "url": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/js/2.003fb236.chunk.js"
+    "revision": "c7c5ca6b419252a9c73d",
+    "url": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/js/2.ec4819e5.chunk.js"
   },
   {
     "revision": "89b0379e7bcda1a468d8b0343aeb4e53",
-    "url": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/js/2.003fb236.chunk.js.LICENSE.txt"
+    "url": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/js/2.ec4819e5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aab6a1f94b33de4fe92f",
-    "url": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/js/main.b4876dcb.chunk.js"
+    "revision": "22186e247bac1b846bfa",
+    "url": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/js/main.d6e81168.chunk.js"
   },
   {
     "revision": "bef733219ecd8e7716fe",
