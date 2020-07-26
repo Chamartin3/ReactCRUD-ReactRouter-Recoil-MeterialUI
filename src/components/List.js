@@ -54,14 +54,17 @@ const TaskList = ({starters, list}) => {
     setNewt('')
     setNextid(nextid+1)
   }
-  const toggleAcomplishment = id => setTasks( tasks.map(t=>{
+  const toggleAcomplishment = id => setTasks( tasks.map(ot=>{
+    let t = {...ot}
     if(t.id != id) return t;
+    
     t.status = !t.status
     return t
-    }))
+  }))
   const editable = id =>{
     let isEmpty = null
-    setTasks( tasks.map(t=>{
+    setTasks( tasks.map(ot=>{
+      let t = {...ot}
       if(t.id != id) return t;
       if(t.content === '') isEmpty = t.id
       if(t.editing){
@@ -73,7 +76,8 @@ const TaskList = ({starters, list}) => {
     }))
     if(isEmpty) deleteTask(isEmpty)
   } 
-    const editTask = (id,txt) => setTasks( tasks.map(t=>{
+    const editTask = (id,txt) => setTasks( tasks.map(ot=>{
+      let t = {...ot}
       if(t.id != id) return t
       t.content = txt
       return t
