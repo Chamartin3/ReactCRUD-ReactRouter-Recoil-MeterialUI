@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "509d28a721c9c7e4628a724abe90dbe3",
+    "revision": "edd9bee53899f0b87896970b7305e61a",
     "url": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/index.html"
   },
   {
