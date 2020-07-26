@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5a6750a968fde751ba68ff573b2db9d7",
+    "revision": "61644f1d180c4fa83f5eb8ebeca98176",
     "url": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/css/2.e04ff340.chunk.css"
   },
   {
-    "revision": "22186e247bac1b846bfa",
+    "revision": "56fafb3a0cccd5393ed1",
     "url": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/css/main.445affc7.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/js/2.ec4819e5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "22186e247bac1b846bfa",
-    "url": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/js/main.d6e81168.chunk.js"
+    "revision": "56fafb3a0cccd5393ed1",
+    "url": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/js/main.5039986d.chunk.js"
   },
   {
     "revision": "bef733219ecd8e7716fe",
