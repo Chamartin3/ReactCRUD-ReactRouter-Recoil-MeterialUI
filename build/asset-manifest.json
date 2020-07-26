@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/css/main.445affc7.chunk.css",
+    "main.js": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/js/main.9fb140ff.chunk.js",
+    "main.js.map": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/js/main.9fb140ff.chunk.js.map",
+    "runtime-main.js": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/js/runtime-main.b6386e08.js",
+    "runtime-main.js.map": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/js/runtime-main.b6386e08.js.map",
+    "static/css/2.e04ff340.chunk.css": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/css/2.e04ff340.chunk.css",
+    "static/js/2.b00e321b.chunk.js": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/js/2.b00e321b.chunk.js",
+    "static/js/2.b00e321b.chunk.js.map": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/js/2.b00e321b.chunk.js.map",
+    "index.html": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/index.html",
+    "precache-manifest.998f5e2f848b8e2a1635bd7e01931149.js": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/precache-manifest.998f5e2f848b8e2a1635bd7e01931149.js",
+    "service-worker.js": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/service-worker.js",
+    "static/css/2.e04ff340.chunk.css.map": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/css/2.e04ff340.chunk.css.map",
+    "static/css/main.445affc7.chunk.css.map": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/css/main.445affc7.chunk.css.map",
+    "static/js/2.b00e321b.chunk.js.LICENSE.txt": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/js/2.b00e321b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6386e08.js",
+    "static/css/2.e04ff340.chunk.css",
+    "static/js/2.b00e321b.chunk.js",
+    "static/css/main.445affc7.chunk.css",
+    "static/js/main.9fb140ff.chunk.js"
+  ]
+}
