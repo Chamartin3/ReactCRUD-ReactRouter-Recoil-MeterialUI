@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ReactCRUD-ReactRouter-Recoil-MeterialUI/precache-manifest.cdedbea01bfce32e6b192cc24bcde313.js"
+  "/ReactCRUD-ReactRouter-Recoil-MeterialUI/precache-manifest.0903808a03bbd86bb154beedf26a5934.js"
 );
 
 self.addEventListener('message', (event) => {

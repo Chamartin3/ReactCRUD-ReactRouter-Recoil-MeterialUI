@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/css/main.445affc7.chunk.css",
-    "main.js": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/js/main.9fb140ff.chunk.js",
-    "main.js.map": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/js/main.9fb140ff.chunk.js.map",
+    "main.js": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/js/main.d6e81168.chunk.js",
+    "main.js.map": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/js/main.d6e81168.chunk.js.map",
     "runtime-main.js": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/js/runtime-main.b6386e08.js",
     "runtime-main.js.map": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/js/runtime-main.b6386e08.js.map",
     "static/css/2.e04ff340.chunk.css": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/css/2.e04ff340.chunk.css",
-    "static/js/2.b00e321b.chunk.js": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/js/2.b00e321b.chunk.js",
-    "static/js/2.b00e321b.chunk.js.map": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/js/2.b00e321b.chunk.js.map",
+    "static/js/2.ec4819e5.chunk.js": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/js/2.ec4819e5.chunk.js",
+    "static/js/2.ec4819e5.chunk.js.map": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/js/2.ec4819e5.chunk.js.map",
     "index.html": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/index.html",
-    "precache-manifest.cdedbea01bfce32e6b192cc24bcde313.js": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/precache-manifest.cdedbea01bfce32e6b192cc24bcde313.js",
+    "precache-manifest.0903808a03bbd86bb154beedf26a5934.js": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/precache-manifest.0903808a03bbd86bb154beedf26a5934.js",
     "service-worker.js": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/service-worker.js",
     "static/css/2.e04ff340.chunk.css.map": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/css/2.e04ff340.chunk.css.map",
     "static/css/main.445affc7.chunk.css.map": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/css/main.445affc7.chunk.css.map",
-    "static/js/2.b00e321b.chunk.js.LICENSE.txt": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/js/2.b00e321b.chunk.js.LICENSE.txt"
+    "static/js/2.ec4819e5.chunk.js.LICENSE.txt": "/ReactCRUD-ReactRouter-Recoil-MeterialUI/static/js/2.ec4819e5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b6386e08.js",
     "static/css/2.e04ff340.chunk.css",
-    "static/js/2.b00e321b.chunk.js",
+    "static/js/2.ec4819e5.chunk.js",
     "static/css/main.445affc7.chunk.css",
-    "static/js/main.9fb140ff.chunk.js"
+    "static/js/main.d6e81168.chunk.js"
   ]
 }
